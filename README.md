@@ -1,4 +1,4 @@
 # TheGuardianArticle
 Using to read the Guardian newspaper. 
 
-This app use API and get JSON data.
+This app uses API and gets JSON data.
